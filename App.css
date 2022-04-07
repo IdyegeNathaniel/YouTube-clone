@@ -50,7 +50,9 @@ a{
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  margin-bottom: 5px;
   width: 100%;
+  background-color: #0909096e;
 }
 .col__2{
   width: 50%;
@@ -170,3 +172,4 @@ a{
 .mxy__15{
   margin: 0px 15px;
 }
+
